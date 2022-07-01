@@ -1,0 +1,5 @@
+this is me writing some text
+i do quite enjoy writing text into a file
+though i prefer markdown to .txt files
+i used to take notes in .md files for my classes when i was in school
+but i have kinda given up on regular school, instead i will be an autodiadact
